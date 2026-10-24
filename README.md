@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IoT Bio-Telemetry: Real-Time Water Bacteria Detection 💧
 
 An end-to-end IoT framework designed to detect bacteriological contamination in water samples using multi-sensor data fusion and edge-deployed Machine Learning.
@@ -17,3 +18,6 @@ An end-to-end IoT framework designed to detect bacteriological contamination in 
 1. **Hardware:** Follow the KiCad schematics in `/hardware` to assemble the testing kit.
 2. **Firmware:** Flash the ESP32 using the code in `code/FINAL/FINAL.ino`.
 3. **Analytics:** Run `deep_learning_model.ipynb` to calibrate the CFU prediction model with your local data.
+=======
+# IoT-Based-Bacterial-Contamination-Detection-Device
+>>>>>>> 4e0bb7ec62716b451d40362bd39ce6487f62ee2f
